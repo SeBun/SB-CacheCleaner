@@ -1,2 +1,2 @@
 # SB-JCCleaner
-The script cleans the CMS Joomla cache folder! on schedule.
+The free script cleans the CMS Joomla! cache folder on schedule.
